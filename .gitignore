@@ -1,0 +1,6 @@
+vcd/
+*.o
+*.cf
+*.vcd
+*.exe
+*.pdf
